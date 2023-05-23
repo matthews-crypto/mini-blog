@@ -1,2 +1,5 @@
 # mini-blog
-Ceci est un projet d'application mobile pour l'école
+Nom : ANOMAN
+Prenom: Mathieu khadim
+Prof: Mr NDIAYE
+Objet: code source projet developpement mobile
